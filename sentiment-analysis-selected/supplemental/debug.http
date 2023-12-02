@@ -1,0 +1,7 @@
+### Send POST request with json body
+POST http://localhost:5000/api
+Content-Type: application/json
+
+{
+  "selected_text": "Nice weather"
+}
