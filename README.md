@@ -9,7 +9,7 @@ Examples of browser extension, mostly for my educational purpose.
 ## Projects
 
 1. **[Sentiment Analysis](./sentiment-analysis-selected/README.md):**
-2. ...
+2. chat-like side panel for URL navigation
 
 ## Installation
 
